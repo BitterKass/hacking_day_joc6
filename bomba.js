@@ -1,0 +1,1 @@
+alert("Sel·lecciona la bomba nuclear");
